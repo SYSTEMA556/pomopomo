@@ -17,4 +17,5 @@
 2　chromedriver.exeをDLしてインストールしたフォルダにコードを置く
 3　pyinstallerで　pyinstaller --onefile app_name.py をすると完成です。
 
+AIにコードにダメ出しをされながら、色々と参考にしてみました。
 もし動かないなどありましたら教えて下さい。後学のためになります。
